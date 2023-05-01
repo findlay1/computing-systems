@@ -13,6 +13,7 @@
 Lab materials are from [student website](http://csapp.cs.cmu.edu/3e/labs.html)
 
 ### My progress for [CMU 15-213: Intro to Computer Systems, Fall 2017](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f17/www/schedule.html)
+### I will leverage the https://www.youtube.com/watch?v=i3usO4RZ898 for video based lectures from CalTech for this material
 
 choose fall 2017 because this semester's videos are available on youtube
 
